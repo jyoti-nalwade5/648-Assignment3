@@ -85,3 +85,11 @@ ul li ul li {
 .pricing div:nth-of-type(4) h3 {
 	border-color: #000000;
 }
+
+nav {
+	float: top;
+}
+
+main {
+	float: bottom;
+}
