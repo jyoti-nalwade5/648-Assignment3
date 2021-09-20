@@ -32,7 +32,7 @@ body p:first-of-type::first-letter {
 }
 
 a[href^="http"]:link {
-    color: blue;
+    color: rgb(32, 32, 221);
     text-decoration: none;
 }
 
